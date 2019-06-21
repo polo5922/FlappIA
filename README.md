@@ -1,11 +1,7 @@
 # FlappIA
 it is a little flappy bird with neral network implementation using p5.js
 
-
-
-
-
-
+![](https://media.giphy.com/media/MeOX8DU7XH3pKYg6T0/giphy.gif)
 
 ### Run It using Python 
 
@@ -40,4 +36,3 @@ and go to your web navigator and type **localhost**
 Got to your folder of git clone copy to your wamp or lamp web server 
 
 and go to your web navigator and type **localhost/FB**
-

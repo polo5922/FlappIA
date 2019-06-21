@@ -2,8 +2,9 @@
 it is a little flappy bird with neral network implementation using p5.js
 
 <p align="center">
-  <img width="100%" height="100%" src="https://media.giphy.com/media/MeOX8DU7XH3pKYg6T0/giphy.gif">
+  <img width="50%" height="50%" src="https://media.giphy.com/media/MeOX8DU7XH3pKYg6T0/giphy.gif">
 </p>
+
 
 
 

@@ -1,7 +1,7 @@
 # FlappIA
 it is a little flappy bird with neral network implementation using p5.js
 
-![](https://media.giphy.com/media/MeOX8DU7XH3pKYg6T0/giphy.gif)
+<span style="display:block;text-align:center">!![](https://media.giphy.com/media/MeOX8DU7XH3pKYg6T0/giphy.gif)</span>
 
 ### Run It using Python 
 
